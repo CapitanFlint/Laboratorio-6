@@ -24,3 +24,15 @@ NOTA: Encontrar el número de aminoácidos que conforman la triada catalitica de
 
 
 VMD MAIN --> Extensions  ---> Multiseq.   Al cuadrado con datos sobre actualizar darle NO. Luego, 5ptp posee 245 residuos aminoacídicos.
+
+
+1sgt tripsina bacteriana
+
+
+2sga  proteasa bacteriana
+
+
+1sbt  subtilicina
+
+
+1etp citocromo c
